@@ -4,7 +4,8 @@
 
 // import Login from "./Conditional_rendering/Login"
 // import Login1 from "./Conditional_rendering/Login1"
-import BasicRouting from "./Routing/BascicRouting/BasicRouting";
+// import BasicRouting from "./Routing/BascicRouting/BasicRouting";
+import NestedRouting from "./Routing/NestedRotuing/NestedRouting";
 
 
 function App() {
@@ -21,7 +22,8 @@ function App() {
 
       <Login1/> */}
 
-      <BasicRouting/>
+      {/* <BasicRouting/> */}
+      <NestedRouting/>
      
     </>
   )
