@@ -5,7 +5,9 @@
 // import Login from "./Conditional_rendering/Login"
 // import Login1 from "./Conditional_rendering/Login1"
 // import BasicRouting from "./Routing/BascicRouting/BasicRouting";
-import NestedRouting from "./Routing/NestedRotuing/NestedRouting";
+// import NestedRouting from "./Routing/NestedRotuing/NestedRouting";
+// import UseStateComponent from "./Components/UseState/UseStateComponent"
+import UseStateComponent1 from "./Components/UseState/UseStateComponent1"
 
 
 function App() {
@@ -23,8 +25,10 @@ function App() {
       <Login1/> */}
 
       {/* <BasicRouting/> */}
-      <NestedRouting/>
-     
+      {/* <NestedRouting/> */}
+      {/* <UseStateComponent/> */}
+      <UseStateComponent1/>
+      
     </>
   )
 }
