@@ -7,7 +7,9 @@
 // import BasicRouting from "./Routing/BascicRouting/BasicRouting";
 // import NestedRouting from "./Routing/NestedRotuing/NestedRouting";
 // import UseStateComponent from "./Components/UseState/UseStateComponent"
-import UseStateComponent1 from "./Components/UseState/UseStateComponent1"
+// import UseStateComponent1 from "./Components/hooks/UseState"
+// import UseEffectComponent from "./Components/hooks/useEffect/useEffectComponent"
+import UseEffectComponent1 from "./Components/hooks/useEffect/UseEffectComponent1"
 
 
 function App() {
@@ -27,7 +29,9 @@ function App() {
       {/* <BasicRouting/> */}
       {/* <NestedRouting/> */}
       {/* <UseStateComponent/> */}
-      <UseStateComponent1/>
+      {/* <UseStateComponent1/> */}
+      {/* <UseEffectComponent/> */}
+      <UseEffectComponent1/>
       
     </>
   )
